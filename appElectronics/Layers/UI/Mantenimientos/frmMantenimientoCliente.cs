@@ -183,25 +183,21 @@ namespace UTN.Winform.Electronics.Layers.UI.Mantenimientos
                 oCliente.Sexo = rdbFemenino.Checked ? 2 : 1;
 
                 oCliente = await bllCliente.Save(oCliente);
-                
 
                 if (oCliente != null)
                     this.LoadData();
-
             }
             catch (Exception er)
             {
                 string msg = "";
                 _myLogControlEventos.ErrorFormat("Error {0}", msg.ToExceptionDetail(er, MethodBase.GetCurrentMethod()));
                 MessageBox.Show("Se ha producido el siguiente error: " + er.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-
             }
         }
 
         private async void toolStripBtnBorrar_Click(object sender, EventArgs e)
         {
             IBLLCliente bllCliente = new BLLCliente();
-
             try
             {
                 if (this.dgvDatos.SelectedRows.Count > 0)
