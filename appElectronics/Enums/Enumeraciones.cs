@@ -6,3 +6,7 @@ public enum EstadoMantenimiento
     Borrar,
     Ninguno
 }
+
+public enum estadoGeneral { 
+    Activo, Inactivo
+}
