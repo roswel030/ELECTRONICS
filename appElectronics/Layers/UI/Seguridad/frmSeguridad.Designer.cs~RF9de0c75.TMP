@@ -1,0 +1,321 @@
+﻿namespace UTN.Winform.Electronics.Layers.UI.Seguridad
+{
+    partial class frmSeguridad
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmSeguridad));
+            this.sttBarraInferior = new System.Windows.Forms.StatusStrip();
+            this.tspBarraPrincipal = new System.Windows.Forms.ToolStrip();
+            this.toolStripBtnNuevo = new System.Windows.Forms.ToolStripButton();
+            this.toolStripBtnSalvarUsuario = new System.Windows.Forms.ToolStripButton();
+            this.toolStripBtnSalir = new System.Windows.Forms.ToolStripButton();
+            this.spcContenedor = new System.Windows.Forms.SplitContainer();
+            this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
+            this.lblLogin = new System.Windows.Forms.Label();
+            this.txtLogin = new System.Windows.Forms.TextBox();
+            this.txtNombre = new System.Windows.Forms.TextBox();
+            this.lblNombre = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.txtPassword = new System.Windows.Forms.TextBox();
+            this.lblRol = new System.Windows.Forms.Label();
+            this.cmbRol = new System.Windows.Forms.ComboBox();
+            this.trvUsuarios = new System.Windows.Forms.TreeView();
+            this.cmdMenu = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.borrarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.imgListaTreeView = new System.Windows.Forms.ImageList(this.components);
+            this.epError = new System.Windows.Forms.ErrorProvider(this.components);
+            this.ntfMensaje = new System.Windows.Forms.NotifyIcon(this.components);
+            this.tspBarraPrincipal.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.spcContenedor)).BeginInit();
+            this.spcContenedor.Panel1.SuspendLayout();
+            this.spcContenedor.Panel2.SuspendLayout();
+            this.spcContenedor.SuspendLayout();
+            this.tableLayoutPanel1.SuspendLayout();
+            this.cmdMenu.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.epError)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // sttBarraInferior
+            // 
+            this.sttBarraInferior.Location = new System.Drawing.Point(0, 327);
+            this.sttBarraInferior.Name = "sttBarraInferior";
+            this.sttBarraInferior.Size = new System.Drawing.Size(675, 22);
+            this.sttBarraInferior.TabIndex = 0;
+            this.sttBarraInferior.Text = "statusStrip1";
+            // 
+            // tspBarraPrincipal
+            // 
+            this.tspBarraPrincipal.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripBtnNuevo,
+            this.toolStripBtnSalvarUsuario,
+            this.toolStripBtnSalir});
+            this.tspBarraPrincipal.Location = new System.Drawing.Point(0, 0);
+            this.tspBarraPrincipal.Name = "tspBarraPrincipal";
+            this.tspBarraPrincipal.Size = new System.Drawing.Size(675, 55);
+            this.tspBarraPrincipal.TabIndex = 1;
+            this.tspBarraPrincipal.Text = "toolStrip1";
+            // 
+            // toolStripBtnNuevo
+            // 
+            this.toolStripBtnNuevo.Image = global::UTN.Winform.Electronics.Properties.Resources.document_new_4;
+            this.toolStripBtnNuevo.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
+            this.toolStripBtnNuevo.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripBtnNuevo.Name = "toolStripBtnNuevo";
+            this.toolStripBtnNuevo.Size = new System.Drawing.Size(94, 52);
+            this.toolStripBtnNuevo.Text = "&Nuevo";
+            this.toolStripBtnNuevo.Click += new System.EventHandler(this.toolStripBtnNuevo_Click);
+            // 
+            // toolStripBtnSalvarUsuario
+            // 
+            this.toolStripBtnSalvarUsuario.Image = global::UTN.Winform.Electronics.Properties.Resources.user_new_3;
+            this.toolStripBtnSalvarUsuario.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
+            this.toolStripBtnSalvarUsuario.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripBtnSalvarUsuario.Name = "toolStripBtnSalvarUsuario";
+            this.toolStripBtnSalvarUsuario.Size = new System.Drawing.Size(90, 52);
+            this.toolStripBtnSalvarUsuario.Text = "&Salvar";
+            this.toolStripBtnSalvarUsuario.Click += new System.EventHandler(this.toolStripBtnSalvarUsuario_Click);
+            // 
+            // toolStripBtnSalir
+            // 
+            this.toolStripBtnSalir.Image = global::UTN.Winform.Electronics.Properties.Resources.window_close_2;
+            this.toolStripBtnSalir.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
+            this.toolStripBtnSalir.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripBtnSalir.Name = "toolStripBtnSalir";
+            this.toolStripBtnSalir.Size = new System.Drawing.Size(81, 52);
+            this.toolStripBtnSalir.Text = "Sa&lir";
+            this.toolStripBtnSalir.Click += new System.EventHandler(this.toolStripBtnSalir_Click);
+            // 
+            // spcContenedor
+            // 
+            this.spcContenedor.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.spcContenedor.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.spcContenedor.Location = new System.Drawing.Point(0, 55);
+            this.spcContenedor.Name = "spcContenedor";
+            // 
+            // spcContenedor.Panel1
+            // 
+            this.spcContenedor.Panel1.Controls.Add(this.tableLayoutPanel1);
+            // 
+            // spcContenedor.Panel2
+            // 
+            this.spcContenedor.Panel2.Controls.Add(this.trvUsuarios);
+            this.spcContenedor.Size = new System.Drawing.Size(675, 272);
+            this.spcContenedor.SplitterDistance = 282;
+            this.spcContenedor.TabIndex = 2;
+            // 
+            // tableLayoutPanel1
+            // 
+            this.tableLayoutPanel1.ColumnCount = 2;
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 32.4F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 67.6F));
+            this.tableLayoutPanel1.Controls.Add(this.lblLogin, 0, 0);
+            this.tableLayoutPanel1.Controls.Add(this.txtLogin, 1, 0);
+            this.tableLayoutPanel1.Controls.Add(this.txtNombre, 1, 1);
+            this.tableLayoutPanel1.Controls.Add(this.lblNombre, 0, 1);
+            this.tableLayoutPanel1.Controls.Add(this.label2, 0, 2);
+            this.tableLayoutPanel1.Controls.Add(this.txtPassword, 1, 2);
+            this.tableLayoutPanel1.Controls.Add(this.lblRol, 0, 3);
+            this.tableLayoutPanel1.Controls.Add(this.cmbRol, 1, 3);
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(10, 24);
+            this.tableLayoutPanel1.Name = "tableLayoutPanel1";
+            this.tableLayoutPanel1.RowCount = 4;
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 34F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 32F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 31F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 36F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(259, 139);
+            this.tableLayoutPanel1.TabIndex = 1;
+            // 
+            // lblLogin
+            // 
+            this.lblLogin.AutoSize = true;
+            this.lblLogin.Location = new System.Drawing.Point(3, 0);
+            this.lblLogin.Name = "lblLogin";
+            this.lblLogin.Size = new System.Drawing.Size(33, 13);
+            this.lblLogin.TabIndex = 0;
+            this.lblLogin.Text = "Login";
+            // 
+            // txtLogin
+            // 
+            this.txtLogin.Location = new System.Drawing.Point(86, 3);
+            this.txtLogin.Name = "txtLogin";
+            this.txtLogin.Size = new System.Drawing.Size(157, 20);
+            this.txtLogin.TabIndex = 3;
+            // 
+            // txtNombre
+            // 
+            this.txtNombre.Location = new System.Drawing.Point(86, 37);
+            this.txtNombre.Name = "txtNombre";
+            this.txtNombre.Size = new System.Drawing.Size(157, 20);
+            this.txtNombre.TabIndex = 9;
+            // 
+            // lblNombre
+            // 
+            this.lblNombre.AutoSize = true;
+            this.lblNombre.Location = new System.Drawing.Point(3, 34);
+            this.lblNombre.Name = "lblNombre";
+            this.lblNombre.Size = new System.Drawing.Size(44, 13);
+            this.lblNombre.TabIndex = 8;
+            this.lblNombre.Text = "Nombre";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(3, 66);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(61, 13);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "Contrasena";
+            // 
+            // txtPassword
+            // 
+            this.txtPassword.Location = new System.Drawing.Point(86, 69);
+            this.txtPassword.Name = "txtPassword";
+            this.txtPassword.PasswordChar = '*';
+            this.txtPassword.Size = new System.Drawing.Size(157, 20);
+            this.txtPassword.TabIndex = 4;
+            // 
+            // lblRol
+            // 
+            this.lblRol.AutoSize = true;
+            this.lblRol.Location = new System.Drawing.Point(3, 97);
+            this.lblRol.Name = "lblRol";
+            this.lblRol.Size = new System.Drawing.Size(23, 13);
+            this.lblRol.TabIndex = 6;
+            this.lblRol.Text = "Rol";
+            // 
+            // cmbRol
+            // 
+            this.cmbRol.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbRol.FormattingEnabled = true;
+            this.cmbRol.Location = new System.Drawing.Point(86, 100);
+            this.cmbRol.Name = "cmbRol";
+            this.cmbRol.Size = new System.Drawing.Size(157, 21);
+            this.cmbRol.TabIndex = 7;
+            // 
+            // trvUsuarios
+            // 
+            this.trvUsuarios.ContextMenuStrip = this.cmdMenu;
+            this.trvUsuarios.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.trvUsuarios.ImageIndex = 0;
+            this.trvUsuarios.ImageList = this.imgListaTreeView;
+            this.trvUsuarios.Location = new System.Drawing.Point(0, 0);
+            this.trvUsuarios.Name = "trvUsuarios";
+            this.trvUsuarios.SelectedImageIndex = 0;
+            this.trvUsuarios.Size = new System.Drawing.Size(385, 268);
+            this.trvUsuarios.TabIndex = 0;
+            this.trvUsuarios.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.trvUsuarios_AfterSelect);
+            // 
+            // cmdMenu
+            // 
+            this.cmdMenu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.borrarToolStripMenuItem,
+            this.salirToolStripMenuItem});
+            this.cmdMenu.Name = "cmdMenu";
+            this.cmdMenu.Size = new System.Drawing.Size(107, 48);
+            // 
+            // borrarToolStripMenuItem
+            // 
+            this.borrarToolStripMenuItem.Name = "borrarToolStripMenuItem";
+            this.borrarToolStripMenuItem.Size = new System.Drawing.Size(106, 22);
+            this.borrarToolStripMenuItem.Text = "Borrar";
+            this.borrarToolStripMenuItem.Click += new System.EventHandler(this.borrarToolStripMenuItem_Click);
+            // 
+            // salirToolStripMenuItem
+            // 
+            this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
+            this.salirToolStripMenuItem.Size = new System.Drawing.Size(106, 22);
+            this.salirToolStripMenuItem.Text = "Salir";
+            // 
+            // imgListaTreeView
+            // 
+            this.imgListaTreeView.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("imgListaTreeView.ImageStream")));
+            this.imgListaTreeView.TransparentColor = System.Drawing.Color.Transparent;
+            this.imgListaTreeView.Images.SetKeyName(0, "database.jpg");
+            this.imgListaTreeView.Images.SetKeyName(1, "userdatabase.png");
+            // 
+            // epError
+            // 
+            this.epError.ContainerControl = this;
+            // 
+            // frmSeguridad
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(675, 349);
+            this.Controls.Add(this.spcContenedor);
+            this.Controls.Add(this.tspBarraPrincipal);
+            this.Controls.Add(this.sttBarraInferior);
+            this.Name = "frmSeguridad";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Seguridad";
+            this.Load += new System.EventHandler(this.frmSeguridad_Load);
+            this.tspBarraPrincipal.ResumeLayout(false);
+            this.tspBarraPrincipal.PerformLayout();
+            this.spcContenedor.Panel1.ResumeLayout(false);
+            this.spcContenedor.Panel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.spcContenedor)).EndInit();
+            this.spcContenedor.ResumeLayout(false);
+            this.tableLayoutPanel1.ResumeLayout(false);
+            this.tableLayoutPanel1.PerformLayout();
+            this.cmdMenu.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.epError)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.StatusStrip sttBarraInferior;
+        private System.Windows.Forms.ToolStrip tspBarraPrincipal;
+        private System.Windows.Forms.ToolStripButton toolStripBtnNuevo;
+        private System.Windows.Forms.ToolStripButton toolStripBtnSalvarUsuario;
+        private System.Windows.Forms.ToolStripButton toolStripBtnSalir;
+        private System.Windows.Forms.SplitContainer spcContenedor;
+        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
+        private System.Windows.Forms.Label lblLogin;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox txtLogin;
+        private System.Windows.Forms.TextBox txtPassword;
+        private System.Windows.Forms.TreeView trvUsuarios;
+        private System.Windows.Forms.ErrorProvider epError;
+        private System.Windows.Forms.ImageList imgListaTreeView;
+        private System.Windows.Forms.NotifyIcon ntfMensaje;
+        private System.Windows.Forms.Label lblRol;
+        private System.Windows.Forms.ComboBox cmbRol;
+        private System.Windows.Forms.Label lblNombre;
+        private System.Windows.Forms.TextBox txtNombre;
+        private System.Windows.Forms.ContextMenuStrip cmdMenu;
+        private System.Windows.Forms.ToolStripMenuItem borrarToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem salirToolStripMenuItem;
+    }
+}

@@ -1,0 +1,78 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.RegularExpressions;
+using System.Threading.Tasks;
+using UTN.Winform.Electronics.Interfaces;
+using UTN.Winform.Electronics.Layers.DAL;
+using UTN.Winform.Electronics.Layers.Entities;
+
+namespace UTN.Winform.Electronics.Layers.BLL
+{
+    class BLLUsuario : IBLLUsuario
+    {
+         
+        public Usuario Login(string pLogin, string pPassword)
+        {
+
+            IDALUsuario _DALUsuario = new DALUsuario();
+            // Encriptar el password
+            string crytpPasswd = Cryptography.EncrypthAES(pPassword);
+
+            return _DALUsuario.Login(pLogin, crytpPasswd);
+        }
+
+        public IEnumerable<Usuario> GetAllLogin()
+        {
+            IDALUsuario _DALUsuario = new DALUsuario();
+            return _DALUsuario.GetAllLogin();
+        }
+
+        public Usuario SaveUsuario(Usuario pUsuario)
+        {
+            IDALUsuario _DALUsuario = new DALUsuario();
+            string mensaje = "";
+            Usuario oUsuario = null;
+
+            if (!IsValidPassword(pUsuario.Password, ref mensaje))
+            {
+                throw new Exception(mensaje);
+            }
+
+            // Encriptar la contraseña.
+            pUsuario.Password = Cryptography.EncrypthAES(pUsuario.Password);
+
+            if (_DALUsuario.GetUsuarioById(pUsuario.Login) != null)
+                oUsuario = _DALUsuario.UpdateUsuario(pUsuario);
+            else
+                oUsuario = _DALUsuario.SaveUsuario(pUsuario);
+            return oUsuario;
+        }
+
+        public Usuario GetUsuarioById(string pLogin)
+        {
+            IDALUsuario _DALUsuario = new DALUsuario();
+            return _DALUsuario.GetUsuarioById(pLogin);
+        }
+
+
+        public bool DeleteUsuario(string pLogin)
+        {
+            IDALUsuario _DALUsuario = new DALUsuario();
+            return _DALUsuario.DeleteUsuario(pLogin);
+        }
+
+        private bool IsValidPassword(string pPassword, ref string pMensaje)
+        {
+            if (pPassword.Trim().Length <= 6)
+            {
+                pMensaje = "El password debe ser mayor o igual a 6 caracteres";
+                return false;
+            }
+            
+            return true;
+        }
+
+    }
+}

@@ -1,0 +1,751 @@
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\libSkiaSharp.dylib
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\linux-arm64\native\libcrypto.so
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\linux-arm64\native\libjpeg.so.8
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libcrypto.so
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libjpeg.so.8
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\linux-x64\native\libcrypto.so
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\linux-x64\native\libjpeg.so.8
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\linux-x64\native\libqpdf.so
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\osx-arm64\native\libcrypto.dylib
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\osx-arm64\native\libjpeg.dylib
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\osx-x64\native\libcrypto.dylib
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\osx-x64\native\libjpeg.dylib
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\win-x64\native\qpdf.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\win-x86\native\qpdf.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\appElectronics.exe.config
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\appElectronics.exe
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\appElectronics.pdb
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\log4net.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\QuestPDF.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\SkiaSharp.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\System.Buffers.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\System.Memory.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\System.Text.Json.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\System.ValueTuple.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\HarfBuzzSharp.xml
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\log4net.pdb
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\log4net.xml
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\QuestPDF.xml
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\SkiaSharp.pdb
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\SkiaSharp.xml
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\System.Buffers.xml
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\System.Memory.xml
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\System.Text.Json.xml
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\appElectronics.csproj.AssemblyReference.cache
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Filtros.frmFiltroCliente.resources
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Filtros.frmFiltroElectronico.resources
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmAcercade.resources
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmLogin.resources
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmPrincipal.resources
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Mantenimientos.frmMantenimientoCliente.resources
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Mantenimientos.frmMantenimientoElectronico.resources
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Mantenimientos.frmMantenimientoProvincia.resources
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Procesos.frmFacturacion.resources
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmGraficoVenta.resources
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmReporteElectronico.resources
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Seguridad.frmSeguridad.resources
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\UTN.Winform.Electronics.Properties.Resources.resources
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\appElectronics.csproj.GenerateResource.cache
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\appElectronics.csproj.CoreCompileInputs.cache
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\appElect.0CC746C9.Up2Date
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\appElectronics.exe
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\appElectronics.pdb
+C:\Users\Morera\Desktop\appElectronics\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Mantenimientos.frmMantenimientoBodega.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\x86\SqlServerSpatial160.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\x64\SqlServerSpatial160.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\libHarfBuzzSharp.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\x86\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\x64\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\arm64\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\libSkiaSharp.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\x86\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\x64\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\arm64\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-arm64\native\libcrypto.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-arm64\native\libjpeg.so.8
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-arm64\native\libqpdf.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-arm64\native\libQuestPdfSkia.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libcrypto.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libjpeg.so.8
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libqpdf.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-x64\native\libcrypto.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-x64\native\libjpeg.so.8
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-x64\native\libqpdf.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-x64\native\libQuestPdfSkia.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\osx-arm64\native\libcrypto.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\osx-arm64\native\libjpeg.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\osx-arm64\native\libqpdf.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\osx-x64\native\libcrypto.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\osx-x64\native\libjpeg.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\osx-x64\native\libqpdf.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x64\native\libgcc_s_seh-1.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x64\native\libstdc++-6.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x64\native\libwinpthread-1.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x64\native\qpdf.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x64\native\QuestPdfSkia.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x86\native\libstdc++-6.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x86\native\libwinpthread-1.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x86\native\qpdf.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x86\native\QuestPdfSkia.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\appElectronics.exe.config
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\appElectronics.exe
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\appElectronics.pdb
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\HarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\log4net.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\QuestPDF.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\SkiaSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\System.Buffers.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\System.IO.Pipelines.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\System.Memory.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\System.Text.Encodings.Web.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\System.Text.Json.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\System.ValueTuple.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\HarfBuzzSharp.pdb
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\HarfBuzzSharp.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\log4net.pdb
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\log4net.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\QuestPDF.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\SkiaSharp.pdb
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\SkiaSharp.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.pdb
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\System.Buffers.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\System.IO.Pipelines.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\System.Memory.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\System.Text.Encodings.Web.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\System.Text.Json.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\appElectronics.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Filtros.frmFiltroCliente.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Filtros.frmFiltroElectronico.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmAcercade.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmLogin.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmPrincipal.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Mantenimientos.frmMantenimientoBodega.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Mantenimientos.frmMantenimientoCliente.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Mantenimientos.frmMantenimientoElectronico.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Mantenimientos.frmMantenimientoProvincia.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Procesos.frmFacturacion.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmGraficoVenta.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmReporteElectronico.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Seguridad.frmSeguridad.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\appElectronics.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\appElectronics.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\appElect.0CC746C9.Up2Date
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\appElectronics.exe
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\appElectronics.pdb
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmReporteCliente.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\x86\SqlServerSpatial160.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\x64\SqlServerSpatial160.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\libHarfBuzzSharp.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\x86\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\x64\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\arm64\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\libSkiaSharp.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\x86\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\x64\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\arm64\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-arm64\native\libcrypto.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-arm64\native\libjpeg.so.8
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-arm64\native\libqpdf.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-arm64\native\libQuestPdfSkia.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libcrypto.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libjpeg.so.8
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libqpdf.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-x64\native\libcrypto.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-x64\native\libjpeg.so.8
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-x64\native\libqpdf.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\linux-x64\native\libQuestPdfSkia.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\osx-arm64\native\libcrypto.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\osx-arm64\native\libjpeg.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\osx-arm64\native\libqpdf.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\osx-x64\native\libcrypto.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\osx-x64\native\libjpeg.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\osx-x64\native\libqpdf.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x64\native\libgcc_s_seh-1.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x64\native\libstdc++-6.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x64\native\libwinpthread-1.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x64\native\qpdf.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x64\native\QuestPdfSkia.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x86\native\libstdc++-6.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x86\native\libwinpthread-1.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x86\native\qpdf.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\runtimes\win-x86\native\QuestPdfSkia.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\appElectronics.exe.config
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\appElectronics.exe
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\appElectronics.pdb
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\HarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\log4net.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\QuestPDF.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\SkiaSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\System.Buffers.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\System.IO.Pipelines.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\System.Memory.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\System.Text.Encodings.Web.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\System.Text.Json.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\System.ValueTuple.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\HarfBuzzSharp.pdb
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\HarfBuzzSharp.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\log4net.pdb
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\log4net.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\QuestPDF.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\SkiaSharp.pdb
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\SkiaSharp.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.pdb
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\System.Buffers.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\System.IO.Pipelines.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\System.Memory.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\System.Text.Encodings.Web.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\System.Text.Json.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\appElectronics.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Filtros.frmFiltroCliente.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Filtros.frmFiltroElectronico.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmAcercade.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmLogin.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmPrincipal.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Mantenimientos.frmMantenimientoBodega.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Mantenimientos.frmMantenimientoCliente.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Mantenimientos.frmMantenimientoElectronico.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Mantenimientos.frmMantenimientoProvincia.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Procesos.frmFacturacion.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmGraficoVenta.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmReporteCliente.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmReporteElectronico.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Seguridad.frmSeguridad.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\UTN.Winform.Electronics.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\appElectronics.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\appElectronics.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\appElect.0CC746C9.Up2Date
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\appElectronics.exe
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-II-2025\appElectronics\obj\Debug\appElectronics.pdb
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\x86\SqlServerSpatial160.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\x64\SqlServerSpatial160.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\libHarfBuzzSharp.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\x86\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\x64\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\arm64\libHarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\libSkiaSharp.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\x86\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\x64\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\arm64\libSkiaSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-arm64\native\libcrypto.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-arm64\native\libjpeg.so.8
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-arm64\native\libqpdf.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-arm64\native\libQuestPdfSkia.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libcrypto.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libjpeg.so.8
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libqpdf.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-x64\native\libcrypto.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-x64\native\libjpeg.so.8
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-x64\native\libqpdf.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-x64\native\libQuestPdfSkia.so
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-arm64\native\libcrypto.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-arm64\native\libjpeg.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-arm64\native\libqpdf.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-x64\native\libcrypto.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-x64\native\libjpeg.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-x64\native\libqpdf.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\libgcc_s_seh-1.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\libstdc++-6.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\libwinpthread-1.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\qpdf.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\QuestPdfSkia.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\libstdc++-6.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\libwinpthread-1.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\qpdf.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\QuestPdfSkia.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\appElectronics.exe.config
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\appElectronics.exe
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\appElectronics.pdb
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\HarfBuzzSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\log4net.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\QuestPDF.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\System.Buffers.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\System.IO.Pipelines.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\System.Memory.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\System.Text.Encodings.Web.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\System.Text.Json.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\System.ValueTuple.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\HarfBuzzSharp.pdb
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\HarfBuzzSharp.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\log4net.pdb
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\log4net.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\QuestPDF.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.pdb
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.pdb
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\System.Buffers.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\System.IO.Pipelines.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\System.Memory.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\System.Text.Encodings.Web.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\System.Text.Json.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Filtros.frmFiltroCliente.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Filtros.frmFiltroElectronico.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmAcercade.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmLogin.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmPrincipal.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Mantenimientos.frmMantenimientoCliente.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Mantenimientos.frmMantenimientoElectronico.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Procesos.frmFacturacion.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmGraficoVenta.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmReporteCliente.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmReporteElectronico.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Seguridad.frmSeguridad.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\obj\Debug\appElect.0CC746C9.Up2Date
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.exe
+D:\Documents\Visual Studio 2022\Projects\ISW411\appElectronics\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.pdb
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.csproj.AssemblyReference.cache
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.exe
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.pdb
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\x86\SqlServerSpatial160.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\x64\SqlServerSpatial160.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\libHarfBuzzSharp.dylib
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\x86\libHarfBuzzSharp.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\x64\libHarfBuzzSharp.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\arm64\libHarfBuzzSharp.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\libSkiaSharp.dylib
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\x86\libSkiaSharp.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\x64\libSkiaSharp.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\arm64\libSkiaSharp.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-arm64\native\libcrypto.so
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-arm64\native\libjpeg.so.8
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-arm64\native\libqpdf.so
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-arm64\native\libQuestPdfSkia.so
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libcrypto.so
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libjpeg.so.8
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libqpdf.so
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-x64\native\libcrypto.so
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-x64\native\libjpeg.so.8
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-x64\native\libqpdf.so
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-x64\native\libQuestPdfSkia.so
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-arm64\native\libcrypto.dylib
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-arm64\native\libjpeg.dylib
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-arm64\native\libqpdf.dylib
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-x64\native\libcrypto.dylib
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-x64\native\libjpeg.dylib
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-x64\native\libqpdf.dylib
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\libgcc_s_seh-1.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\libstdc++-6.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\libwinpthread-1.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\qpdf.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\QuestPdfSkia.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\libstdc++-6.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\libwinpthread-1.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\qpdf.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\QuestPdfSkia.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\appElectronics.exe.config
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\appElectronics.exe
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\appElectronics.pdb
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\HarfBuzzSharp.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\log4net.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\MessagingToolkit.QRCode.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\Microsoft.SqlServer.Types.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\QuestPDF.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Buffers.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.IO.Pipelines.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Memory.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Numerics.Vectors.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Text.Encodings.Web.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Text.Json.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Threading.Tasks.Extensions.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.ValueTuple.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\HarfBuzzSharp.pdb
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\HarfBuzzSharp.xml
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\log4net.pdb
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\log4net.xml
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\QuestPDF.xml
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.pdb
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.xml
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.pdb
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.xml
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Buffers.xml
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.IO.Pipelines.xml
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Memory.xml
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Numerics.Vectors.xml
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Text.Encodings.Web.xml
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Text.Json.xml
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Threading.Tasks.Extensions.xml
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Filtros.frmFiltroCliente.resources
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Filtros.frmFiltroElectronico.resources
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmAcercade.resources
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmLogin.resources
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmPrincipal.resources
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Mantenimientos.frmMantenimientoCliente.resources
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Procesos.frmFacturacion.resources
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmGraficoVenta.resources
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmReporteCliente.resources
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmReporteElectronico.resources
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Properties.Resources.resources
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.csproj.GenerateResource.cache
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.csproj.CoreCompileInputs.cache
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.csproj.CopyComplete
+d:\Downloads\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Seguridad.frmSeguridad.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\x86\SqlServerSpatial160.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\x64\SqlServerSpatial160.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\libHarfBuzzSharp.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\x86\libHarfBuzzSharp.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\x64\libHarfBuzzSharp.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\arm64\libHarfBuzzSharp.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\libSkiaSharp.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\x86\libSkiaSharp.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\x64\libSkiaSharp.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\arm64\libSkiaSharp.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-arm64\native\libcrypto.so
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-arm64\native\libjpeg.so.8
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-arm64\native\libqpdf.so
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-arm64\native\libQuestPdfSkia.so
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libcrypto.so
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libjpeg.so.8
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libqpdf.so
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-x64\native\libcrypto.so
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-x64\native\libjpeg.so.8
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-x64\native\libqpdf.so
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-x64\native\libQuestPdfSkia.so
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-arm64\native\libcrypto.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-arm64\native\libjpeg.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-arm64\native\libqpdf.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-x64\native\libcrypto.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-x64\native\libjpeg.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-x64\native\libqpdf.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\libgcc_s_seh-1.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\libstdc++-6.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\libwinpthread-1.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\qpdf.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\QuestPdfSkia.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\libstdc++-6.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\libwinpthread-1.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\qpdf.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\QuestPdfSkia.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\appElectronics.exe.config
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\appElectronics.exe
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\appElectronics.pdb
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\HarfBuzzSharp.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\log4net.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\MessagingToolkit.QRCode.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\Microsoft.SqlServer.Types.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\QuestPDF.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Buffers.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.IO.Pipelines.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Memory.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Numerics.Vectors.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Text.Encodings.Web.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Text.Json.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Threading.Tasks.Extensions.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.ValueTuple.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\HarfBuzzSharp.pdb
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\HarfBuzzSharp.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\log4net.pdb
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\log4net.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\QuestPDF.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.pdb
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.pdb
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Buffers.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.IO.Pipelines.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Memory.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Numerics.Vectors.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Text.Encodings.Web.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Text.Json.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\System.Threading.Tasks.Extensions.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.csproj.AssemblyReference.cache
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Filtros.frmFiltroCliente.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Filtros.frmFiltroElectronico.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmAcercade.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmLogin.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmPrincipal.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Mantenimientos.frmMantenimientoCliente.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Procesos.frmFacturacion.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmGraficoVenta.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmReporteCliente.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmReporteElectronico.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Seguridad.frmSeguridad.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Properties.Resources.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.csproj.GenerateResource.cache
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.csproj.CoreCompileInputs.cache
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.csproj.CopyComplete
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.exe
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\08.Leccion\ClaseA\appElectronics-I-2026\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.pdb
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\x86\SqlServerSpatial160.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\x64\SqlServerSpatial160.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\libHarfBuzzSharp.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\x86\libHarfBuzzSharp.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\x64\libHarfBuzzSharp.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\arm64\libHarfBuzzSharp.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\libSkiaSharp.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\x86\libSkiaSharp.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\x64\libSkiaSharp.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\arm64\libSkiaSharp.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-arm64\native\libcrypto.so
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-arm64\native\libjpeg.so.8
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-arm64\native\libqpdf.so
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-arm64\native\libQuestPdfSkia.so
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libcrypto.so
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libjpeg.so.8
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libqpdf.so
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-x64\native\libcrypto.so
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-x64\native\libjpeg.so.8
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-x64\native\libqpdf.so
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\linux-x64\native\libQuestPdfSkia.so
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-arm64\native\libcrypto.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-arm64\native\libjpeg.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-arm64\native\libqpdf.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-x64\native\libcrypto.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-x64\native\libjpeg.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-x64\native\libqpdf.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\libgcc_s_seh-1.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\libstdc++-6.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\libwinpthread-1.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\qpdf.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x64\native\QuestPdfSkia.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\libstdc++-6.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\libwinpthread-1.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\qpdf.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\runtimes\win-x86\native\QuestPdfSkia.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\appElectronics.exe.config
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\appElectronics.exe
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\appElectronics.pdb
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\HarfBuzzSharp.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\log4net.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\MessagingToolkit.QRCode.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\Microsoft.SqlServer.Types.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\QuestPDF.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\System.Buffers.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\System.IO.Pipelines.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\System.Memory.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\System.Numerics.Vectors.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\System.Text.Encodings.Web.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\System.Text.Json.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\System.Threading.Tasks.Extensions.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\System.ValueTuple.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\HarfBuzzSharp.pdb
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\HarfBuzzSharp.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\log4net.pdb
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\log4net.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\QuestPDF.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.pdb
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.pdb
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\SkiaSharp.HarfBuzz.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\System.Buffers.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\System.IO.Pipelines.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\System.Memory.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\System.Numerics.Vectors.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\System.Text.Encodings.Web.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\System.Text.Json.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\System.Threading.Tasks.Extensions.xml
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.csproj.AssemblyReference.cache
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Filtros.frmFiltroCliente.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Filtros.frmFiltroElectronico.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmAcercade.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmLogin.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.frmPrincipal.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Mantenimientos.frmMantenimientoCliente.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Procesos.frmFacturacion.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmGraficoVenta.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmReporteCliente.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Reportes.frmReporteElectronico.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Layers.UI.Seguridad.frmSeguridad.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\obj\Debug\UTN.Winform.Electronics.Properties.Resources.resources
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.csproj.GenerateResource.cache
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.csproj.CoreCompileInputs.cache
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.csproj.CopyComplete
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.exe
+d:\Desktop\CURSOS UTN\ISW411-IC-24-G04\09.Leccion\appElectronics-I-2026\appElectronics\obj\Debug\appElectronics.pdb

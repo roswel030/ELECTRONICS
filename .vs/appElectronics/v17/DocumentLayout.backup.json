@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Visual Studio 2022\\Projects\\ISW411\\appElectronics\\appElectronics-I-2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E840DE5-2064-406D-8906-2EE5F20A8C25}|appElectronics\\appElectronics.csproj|d:\\documents\\visual studio 2022\\projects\\isw411\\appelectronics\\appelectronics-i-2026\\appelectronics\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3E840DE5-2064-406D-8906-2EE5F20A8C25}|appElectronics\\appElectronics.csproj|solutionrelative:appelectronics\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E840DE5-2064-406D-8906-2EE5F20A8C25}|appElectronics\\appElectronics.csproj|d:\\documents\\visual studio 2022\\projects\\isw411\\appelectronics\\appelectronics-i-2026\\appelectronics\\layers\\ui\\reportes\\frmreportecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E840DE5-2064-406D-8906-2EE5F20A8C25}|appElectronics\\appElectronics.csproj|solutionrelative:appelectronics\\layers\\ui\\reportes\\frmreportecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E840DE5-2064-406D-8906-2EE5F20A8C25}|appElectronics\\appElectronics.csproj|d:\\documents\\visual studio 2022\\projects\\isw411\\appelectronics\\appelectronics-i-2026\\appelectronics\\layers\\ui\\reportes\\frmreportecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E840DE5-2064-406D-8906-2EE5F20A8C25}|appElectronics\\appElectronics.csproj|solutionrelative:appelectronics\\layers\\ui\\reportes\\frmreportecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E840DE5-2064-406D-8906-2EE5F20A8C25}|appElectronics\\appElectronics.csproj|d:\\documents\\visual studio 2022\\projects\\isw411\\appelectronics\\appelectronics-i-2026\\appelectronics\\layers\\ui\\procesos\\frmfacturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E840DE5-2064-406D-8906-2EE5F20A8C25}|appElectronics\\appElectronics.csproj|solutionrelative:appelectronics\\layers\\ui\\procesos\\frmfacturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E840DE5-2064-406D-8906-2EE5F20A8C25}|appElectronics\\appElectronics.csproj|D:\\Documents\\Visual Studio 2022\\Projects\\ISW411\\appElectronics\\appElectronics-I-2026\\appelectronics\\layers\\ui\\procesos\\frmfacturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E840DE5-2064-406D-8906-2EE5F20A8C25}|appElectronics\\appElectronics.csproj|solutionrelative:appelectronics\\layers\\ui\\procesos\\frmfacturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E840DE5-2064-406D-8906-2EE5F20A8C25}|appElectronics\\appElectronics.csproj|D:\\Documents\\Visual Studio 2022\\Projects\\ISW411\\appElectronics\\appElectronics-I-2026\\appelectronics\\layers\\ui\\procesos\\frmfacturacion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E840DE5-2064-406D-8906-2EE5F20A8C25}|appElectronics\\appElectronics.csproj|solutionrelative:appelectronics\\layers\\ui\\procesos\\frmfacturacion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Documents\\Visual Studio 2022\\Projects\\ISW411\\appElectronics\\appElectronics-I-2026\\appElectronics\\App.config",
+              "RelativeDocumentMoniker": "appElectronics\\App.config",
+              "ToolTip": "D:\\Documents\\Visual Studio 2022\\Projects\\ISW411\\appElectronics\\appElectronics-I-2026\\appElectronics\\App.config",
+              "RelativeToolTip": "appElectronics\\App.config",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-01T03:36:52.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmReporteCliente.cs",
+              "DocumentMoniker": "D:\\Documents\\Visual Studio 2022\\Projects\\ISW411\\appElectronics\\appElectronics-I-2026\\appElectronics\\Layers\\UI\\Reportes\\frmReporteCliente.cs",
+              "RelativeDocumentMoniker": "appElectronics\\Layers\\UI\\Reportes\\frmReporteCliente.cs",
+              "ToolTip": "D:\\Documents\\Visual Studio 2022\\Projects\\ISW411\\appElectronics\\appElectronics-I-2026\\appElectronics\\Layers\\UI\\Reportes\\frmReporteCliente.cs",
+              "RelativeToolTip": "appElectronics\\Layers\\UI\\Reportes\\frmReporteCliente.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T03:35:22.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmReporteCliente.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\Visual Studio 2022\\Projects\\ISW411\\appElectronics\\appElectronics-I-2026\\appElectronics\\Layers\\UI\\Reportes\\frmReporteCliente.cs",
+              "RelativeDocumentMoniker": "appElectronics\\Layers\\UI\\Reportes\\frmReporteCliente.cs",
+              "ToolTip": "D:\\Documents\\Visual Studio 2022\\Projects\\ISW411\\appElectronics\\appElectronics-I-2026\\appElectronics\\Layers\\UI\\Reportes\\frmReporteCliente.cs [Design]",
+              "RelativeToolTip": "appElectronics\\Layers\\UI\\Reportes\\frmReporteCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T03:35:20.599Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmFacturacion.Designer.cs",
+              "DocumentMoniker": "D:\\Documents\\Visual Studio 2022\\Projects\\ISW411\\appElectronics\\appElectronics-I-2026\\appElectronics\\Layers\\UI\\Procesos\\frmFacturacion.Designer.cs",
+              "RelativeDocumentMoniker": "appElectronics\\Layers\\UI\\Procesos\\frmFacturacion.Designer.cs",
+              "ToolTip": "D:\\Documents\\Visual Studio 2022\\Projects\\ISW411\\appElectronics\\appElectronics-I-2026\\appElectronics\\Layers\\UI\\Procesos\\frmFacturacion.Designer.cs",
+              "RelativeToolTip": "appElectronics\\Layers\\UI\\Procesos\\frmFacturacion.Designer.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAlwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T03:24:32.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmFacturacion.cs",
+              "DocumentMoniker": "D:\\Documents\\Visual Studio 2022\\Projects\\ISW411\\appElectronics\\appElectronics-I-2026\\appElectronics\\Layers\\UI\\Procesos\\frmFacturacion.cs",
+              "RelativeDocumentMoniker": "appElectronics\\Layers\\UI\\Procesos\\frmFacturacion.cs",
+              "ToolTip": "D:\\Documents\\Visual Studio 2022\\Projects\\ISW411\\appElectronics\\appElectronics-I-2026\\appElectronics\\Layers\\UI\\Procesos\\frmFacturacion.cs",
+              "RelativeToolTip": "appElectronics\\Layers\\UI\\Procesos\\frmFacturacion.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T03:21:23.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmFacturacion.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\Visual Studio 2022\\Projects\\ISW411\\appElectronics\\appElectronics-I-2026\\appElectronics\\Layers\\UI\\Procesos\\frmFacturacion.cs",
+              "RelativeDocumentMoniker": "appElectronics\\Layers\\UI\\Procesos\\frmFacturacion.cs",
+              "ToolTip": "D:\\Documents\\Visual Studio 2022\\Projects\\ISW411\\appElectronics\\appElectronics-I-2026\\appElectronics\\Layers\\UI\\Procesos\\frmFacturacion.cs [Design]",
+              "RelativeToolTip": "appElectronics\\Layers\\UI\\Procesos\\frmFacturacion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T03:21:07.938Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
